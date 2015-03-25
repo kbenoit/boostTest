@@ -1,0 +1,17 @@
+Package: boostTest
+Type: Package
+Title: Test of boost/C++ regex functions with R package/Rcpp
+Maintainer: Ken Benoit <krbenoit@gmail.com>
+Version: 0.1
+Date: 2015-03-26
+Description: Testing to get boost regex_replace working
+License: GPL-3
+Depends:
+    R (>= 3.0)
+Imports:
+    methods,
+    Rcpp,
+    BH
+LinkingTo: Rcpp, RcppArmadillo, BH
+URL: http://github.com/kbenoit/boostTest
+VignetteBuilder: knitr
