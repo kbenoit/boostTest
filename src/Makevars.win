@@ -1,1 +1,1 @@
-"PKG_LIBS" = "-lboost_regex"
+PKG_LIBS = -lboost_regex

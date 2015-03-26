@@ -12,6 +12,6 @@ Depends:
 Imports:
     Rcpp
 Suggests:    knitr
-LinkingTo: Rcpp, RcppArmadillo, BH
+LinkingTo: Rcpp, BH
 URL: http://github.com/kbenoit/boostTest
 VignetteBuilder: knitr

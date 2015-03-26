@@ -1,8 +1,6 @@
 #include <Rcpp.h>
 #include <string>
 #include <boost/regex.hpp>
-#include <boost/regex/V4/regex_replace.hpp>
-
 
 // [[Rcpp::depends(BH)]]
 
