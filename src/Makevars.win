@@ -1,2 +1,2 @@
-PKG_LIBS = -lboost_regex -L/usr/lib64
+PKG_LIBS = -lboost_regex -L/usr/lib64 -lboost_system
 PKG_CPPFLAGS = -I$(BOOSTLIB)
